@@ -1,0 +1,241 @@
+Message-ID: <1463677595.208614.1546750480939.JavaMail.root@java115-online.zeus.ljnode.com>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_208613_58862745.1546750480938"
+
+------=_Part_208613_58862745.1546750480938
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>Spark=E6=93=8D=E4=BD=9C=E8=A7=84=E8=8C=83</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+#main {
+    padding-bottom: 1em !important; /* The default padding of 6em is too mu=
+ch for printouts */
+}
+
+body {
+    font-family: Arial, Helvetica, FreeSans, sans-serif;
+    font-size: 10pt;
+    line-height: 1.2;
+}
+
+body, #full-height-container, #main, #page, #content, .has-personal-sidebar=
+ #content {
+    background: #fff    !important;
+    color: #000         !important;
+    border: 0           !important;
+    width: 100%         !important;
+    height: auto        !important;
+    min-height: auto    !important;
+    margin: 0           !important;
+    padding: 0          !important;
+    display: block      !important;
+}
+
+a, a:link, a:visited, a:focus, a:hover, a:active {
+    color: #000;
+}
+#content h1,
+#content h2,
+#content h3,
+#content h4,
+#content h5,
+#content h6 {
+    font-family: Arial, Helvetica, FreeSans, sans-serif;
+    page-break-after: avoid;
+}
+pre {
+    font-family: Monaco, "Courier New", monospace;
+}
+
+#header,
+.aui-header-inner,
+#navigation,
+#sidebar,
+.sidebar,
+#personal-info-sidebar,
+.ia-fixed-sidebar,
+.page-actions,
+.navmenu,
+.ajs-menu-bar,
+.noprint,
+.inline-control-link,
+.inline-control-link a,
+a.show-labels-editor,
+.global-comment-actions,
+.comment-actions,
+.quick-comment-container,
+#addcomment {
+    display: none !important;
+}
+
+.comment .date::before {
+    content: none !important; /* remove middot for print view */
+}
+
+h1.pagetitle img {
+    height: auto;
+    width: auto;
+}
+
+.print-only {
+    display: block;
+}
+#footer {
+    position: relative !important; /* CONF-17506 Place the footer at end of=
+ the content */
+    margin: 0;
+    padding: 0;
+    background: none;
+    clear: both;
+}
+
+#poweredby {
+    border-top: none;
+    background: none;
+}
+
+#poweredby li.print-only {
+    display: list-item;
+    font-style: italic;
+}
+
+#poweredby li.noprint {
+    display:none;
+}
+
+
+/* no width controls in print */
+.wiki-content .table-wrap,
+.wiki-content p,
+.panel .codeContent,
+.panel .codeContent pre,
+.image-wrap {
+    overflow: visible !important;
+}
+
+/* TODO - should this work? */
+#children-section,
+#comments-section .comment,
+#comments-section .comment .comment-body,
+#comments-section .comment .comment-content,
+#comments-section .comment p {
+    page-break-inside: avoid;
+}
+
+#page-children a {
+    text-decoration: none;
+}
+
+/**
+ hide twixies
+
+ the specificity here is a hack because print styles
+ are getting loaded before the base styles. */
+#comments-section.pageSection .section-header,
+#comments-section.pageSection .section-title,
+#children-section.pageSection .section-header,
+#children-section.pageSection .section-title,
+.children-show-hide {
+    padding-left: 0;
+    margin-left: 0;
+}
+
+.children-show-hide.icon {
+    display: none;
+}
+
+/* personal sidebar */
+.has-personal-sidebar #content {
+    margin-right: 0px;
+}
+
+.has-personal-sidebar #content .pageSection {
+    margin-right: 0px;
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>Spark=E6=93=8D=E4=BD=9C=E8=A7=84=E8=8C=83</h1>
+    <div class=3D"Section1">
+        <p>&nbsp;</p>
+<ol>
+<li>=E5=8E=86=E5=8F=B2=E6=97=A5=E5=BF=97log<br /><a href=3D"http://10.200.2=
+4.82:18081/" class=3D"external-link" rel=3D"nofollow">http://10.200.24.82:1=
+8081/</a><br />=E5=AD=98=E6=94=BE=E5=9C=B0=E5=9D=80<a href=3D"hdfs://nn-clu=
+ster/user/rentplat/spark/log/2018" rel=3D"nofollow">hdfs://nn-cluster/user/=
+rentplat/spark/log/2018</a><br /><br /></li>
+<li>=E9=9B=86=E7=BE=A4=E8=B5=84=E6=BA=90=E7=94=B3=E8=AF=B7<br /><pre>execut=
+or-cores 1=EF=BD=9E2</pre><pre>num-executors =E6=A0=B9=E6=8D=AE=E6=95=B0=E6=
+=8D=AE=E9=87=8F=E7=94=B3=E8=AF=B7</pre><pre>driver-memory 2G=E4=B8=8A=E4=B8=
+=8B</pre></li>
+<li>=E9=A2=9D=E5=A4=96jar=E5=8C=85<br /><pre>--jars </pre></li>
+<li>=E7=BA=BF=E4=B8=8A=E8=B0=83=E5=BA=A6spark-submit=E6=97=B6 =E5=8E=BB=E6=
+=8E=89nohup=E6=93=8D=E4=BD=9C</li>
+<li><strong>pyspark</strong><br /><strong><br /></strong>=E5=BD=93=E5=89=8D=
+=E9=9B=86=E7=BE=A4=E7=9A=84Python=E7=89=88=E6=9C=AC=E8=BF=98=E6=98=AF=E9=BB=
+=98=E8=AE=A42.6=EF=BC=8C=E7=9B=B4=E6=8E=A5=E7=94=A8/bin/pyspark=E4=BC=9A=E6=
+=8A=A52.6=E3=80=812.7=E7=89=88=E6=9C=AC=E9=97=AE=E9=A2=98=E3=80=82<br />=E5=
+=8F=AF=E4=BB=A5=E7=94=A8&nbsp;<p class=3D"p1">&nbsp;pyspark --archives <a h=
+ref=3D"hdfs://nn-cluster/user/rentplat/udf/jar/python.tgz#python" rel=3D"no=
+follow">hdfs://nn-cluster/user/rentplat/udf/jar/python.tgz#python</a> --con=
+f <a href=3D"http://wiki.lianjia.com/spark.pyspark.python=3Dpython/bin/pyth=
+on2.7" rel=3D"nofollow"><span class=3D"s1">spark.pyspark.python=3Dpython/bi=
+n/python2.7</span></a> --conf <a href=3D"http://wiki.lianjia.com/spark.pysp=
+ark.driver.python=3Dpython2.7" rel=3D"nofollow"><span class=3D"s1">spark.py=
+spark.driver.python=3Dpython2.7</span></a></p></li>
+</ol>
+    </div>
+</body>
+</html>
+------=_Part_208613_58862745.1546750480938--
