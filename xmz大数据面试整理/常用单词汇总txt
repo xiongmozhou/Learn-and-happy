@@ -1,0 +1,77 @@
+﻿# 一天五个单词，day01
+
+synchronized ：同步
+[ˈsɪŋkrənaɪzd]
+ 
+transient : 短暂的(不可序列化)
+[ˈtrænʃnt]
+
+stage : 阶段
+[steɪdʒ]
+
+explain ：解释(sql执行计划)
+[ɪkˈspleɪn]
+
+serializable : 序列化
+[ˈsɪˌriəˌlaɪzəbl]
+
+
+# ============= day02
+
+
+spark.shuffle.sort.bypassMergeThreshold : 该参数小于200会变为sortshuffle的bypass模式
+[ˈθreʃhoʊld]
+
+Optional ：可选的，用来判断空指针异常
+[ˈɑːpʃənl]
+
+ConcurrentModificationException ：并发修改异常
+
+StackOverflowError ：栈溢出异常
+
+OutOfMemoryError ：堆溢出异常
+
+IllegalThreadStateException ：线程状态不匹配异常
+[ɪˈliːɡl]
+
+
+# ============ day03
+
+Scheduler : 任务调度
+[ˈskɛdʒʊlər]
+
+DAGScheduler ：有向无环图调度(复制划分Stages)
+
+TaskScheduler ：每一个具体的Task的调度
+
+Segment ：分段锁机制(concurrenthashmap)
+[seɡˈment]
+
+consolidate :合并机制 (HashShuffleManager优化机制)
+[kənˈsɑːlɪdeɪt]
+
+# ============== day04
+
+persist : 缓存
+[pərˈsɪst]
+
+WAL : 预写日志
+
+Receiver ：接收
+[rɪˈsiːvər]
+
+Direct : 直接的
+[dəˈrekt]
+
+Coalesce ： 合并
+[ˌkoʊəˈles]
+
+volatile : 不稳定的
+[ˈvɒlətaɪl]
+
+ReentrantLock ：可重用锁
+
+
+
+
+
